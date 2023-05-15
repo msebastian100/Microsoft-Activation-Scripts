@@ -1,4 +1,4 @@
-## Microsoft Activation Scripts (MAS):
+## Microsoft  Activation  Scripts (MAS):
 
 A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
@@ -30,7 +30,7 @@ Release date: 16-Mar-2023
 
 ### [Troubleshooting / Help](https://massgrave.dev/troubleshoot.html)
 ### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media.html)
-### [Check Homepage For More Details](https://massgrave.dev)
+### Homepage - https://massgrave.dev
 </br>
 
 [![1.1]][1]
